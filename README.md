@@ -1,7 +1,7 @@
 # Responsive-Paytm <br/>
 #### Created By Vitthal Patil <br/>
 ## Below are the visit link of my website <br/>
-[Click Here](https://vitthalpatil0806.github.io/Responsive-Paytm/) <br/>
+[Click Here](https://chimerical-macaron-eaefee.netlify.app) <br/>
 ## Below Are the Thumbnail Of Paytm <br/>
 ![ss](https://github.com/VitthalPatil0806/Responsive-Paytm/blob/master/paytm%20ss.png) <br/>
 # what I Learned New Different think's <br/>
